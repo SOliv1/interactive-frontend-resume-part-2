@@ -196,6 +196,8 @@ header {
 
 /*--------------------------------------------Footer*/
 
+
+
 footer {
     background-color: #525252;
     color: #fafafa;
@@ -387,7 +389,7 @@ button[type="submit"] {
 }
 
 /*--------------------------------------------Map*/
-div#map {
+div #map {
     min-height: 360px;
 }
 
